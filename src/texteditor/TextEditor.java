@@ -28,7 +28,7 @@ import javafx.stage.Stage;
  * @author 3wiida
  */
 public class TextEditor extends Application {
-    
+    //hello 3wiida
     @Override
     public void start(Stage primaryStage) {
         
